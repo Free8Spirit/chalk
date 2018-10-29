@@ -1,0 +1,25 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "My Chalk",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "chalk-animation": "^1.6.0",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Free8Spirit/chalk.git"
+  },
+  "author": "DV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Free8Spirit/chalk/issues"
+  },
+  "homepage": "https://github.com/Free8Spirit/chalk#readme"
+}
