@@ -9,7 +9,7 @@ console.log(chalk.blue('Hello World'));
 var glitch = chalkers.glitch('This is colorful text', 2);
 setTimeout(() => {
     glitch.stop();
-}, 500);
+}, 1);
 setTimeout(() => {
     glitch.start();
-}, 1000);
+}, 2);
